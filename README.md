@@ -13,8 +13,6 @@ This React Native application visualizes humidity sensor data retrieved from a s
 - ![Chart Kit](https://img.shields.io/badge/-Chart_Kit-green?style=flat-square)
 - ![Moment.js](https://img.shields.io/badge/-Moment.js-blue?style=flat-square)
 
-## Screenshots
-_Include screenshots of the application here_
 
 ## Usage
 1. Clone the repository: `git clone https://github.com/Suvargha-2000/growTree/tree/master`
